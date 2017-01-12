@@ -9,13 +9,13 @@ namespace amazingprogram
     {
         static void Main(string[] args)
         {
-            int a, b;
-            Console.WriteLine("Wprowadz pierwsza liczbe");
+            int a, c;
+            Console.WriteLine("Wprowasdfgsdgdz pierwsza liczbe");
             a = int.Parse(Console.ReadLine());
-            Console.WriteLine("Wprowadz druga liczbe");
-            b = int.Parse(Console.ReadLine());
+            Console.WriteLine("Wprowadsfgsdz druga liczbe");
+            c = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Wynik = " + (a+b));
+            Console.WriteLine("Wynsdfggiksxxx = " + (a+c));
             Console.ReadKey();
         }
     }
