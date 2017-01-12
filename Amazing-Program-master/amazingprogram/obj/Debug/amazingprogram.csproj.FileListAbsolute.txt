@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2008\Projects\amazingprogram\amazingprogram\bin\Debug\amazingprogram.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\amazingprogram\amazingprogram\bin\Debug\amazingprogram.pdb
+C:\Users\user\Documents\Visual Studio 2008\Projects\amazingprogram\amazingprogram\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2008\Projects\amazingprogram\amazingprogram\obj\Debug\amazingprogram.exe
+C:\Users\user\Documents\Visual Studio 2008\Projects\amazingprogram\amazingprogram\obj\Debug\amazingprogram.pdb
+C:\Users\user\Desktop\wklej\Amazing-Program-master\amazingprogram\obj\Debug\amazingprogram.exe
+C:\Users\user\Desktop\wklej\Amazing-Program-master\amazingprogram\obj\Debug\amazingprogram.pdb
